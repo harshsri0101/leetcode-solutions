@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harshsri0101/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshsri0101/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harshsri0101/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshsri0101/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harshsri0101/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/harshsri0101/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshsri0101/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/harshsri0101/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshsri0101/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/harshsri0101/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
